@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/akashkarmakar22/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akashkarmakar22/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/akashkarmakar22/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0704-binary-search](https://github.com/akashkarmakar22/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0881-boats-to-save-people](https://github.com/akashkarmakar22/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -34,4 +35,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/akashkarmakar22/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0704-binary-search](https://github.com/akashkarmakar22/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
