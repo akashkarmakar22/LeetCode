@@ -16,9 +16,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/akashkarmakar22/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0881-boats-to-save-people](https://github.com/akashkarmakar22/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/akashkarmakar22/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/akashkarmakar22/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
