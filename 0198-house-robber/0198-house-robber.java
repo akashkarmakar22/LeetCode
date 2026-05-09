@@ -3,12 +3,12 @@ class Solution {
         int prev2 = 0;
         int prev1 = 0;
 
-        for (int num : nums) {
-            int current = Math.max(prev1, prev2 + num);
+        for (int i=0;i<=nums.length-1;++i) {
+            int current = Math.max(prev1, prev2 + nums[i]);
             prev2 = prev1;
             prev1 = current;
         }
-
+         
         return prev1;
     }
 }
