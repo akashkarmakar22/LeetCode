@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/akashkarmakar22/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/akashkarmakar22/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0881-boats-to-save-people](https://github.com/akashkarmakar22/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [2540-minimum-common-value](https://github.com/akashkarmakar22/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/akashkarmakar22/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/akashkarmakar22/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akashkarmakar22/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2540-minimum-common-value](https://github.com/akashkarmakar22/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/akashkarmakar22/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/akashkarmakar22/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [2540-minimum-common-value](https://github.com/akashkarmakar22/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/akashkarmakar22/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/akashkarmakar22/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akashkarmakar22/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2540-minimum-common-value](https://github.com/akashkarmakar22/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
