@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/akashkarmakar22/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/akashkarmakar22/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0881-boats-to-save-people](https://github.com/akashkarmakar22/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/akashkarmakar22/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2540-minimum-common-value](https://github.com/akashkarmakar22/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
